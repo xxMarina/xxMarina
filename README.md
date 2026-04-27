@@ -1,9 +1,6 @@
 # Hi there 👋
 
-<div align="center">
-  <img src="gh-space-shooter.gif" />
-</div>
-
+![My GitHub Game](game.gif)
 ---
 
 ### 🖥️ Security Console
