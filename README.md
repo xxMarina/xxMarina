@@ -5,7 +5,7 @@
 
 ### 🛠 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,postgresql,vercel,docker,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,js,ts,react,nextjs,nodejs,java,supabase,postgresql,vercel,docker,git,linux)](https://skillicons.dev)
 
 
 ###
