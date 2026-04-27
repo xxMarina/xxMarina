@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**xxMarina/xxMarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/xxMarina/xxMarina/master/gh-space-shooter.gif" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Security Console
+```json
+{
+  "operator": "xxMarina",
+  "mission": "SaaS Builder & Cyber Security Student",
+  "defense_system": "Space-Shooter-Protocol",
+  "status": "Scanning for vulnerabilities..."
+}
