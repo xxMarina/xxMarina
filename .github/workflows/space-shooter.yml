@@ -3,12 +3,13 @@ name: Generate Space Shooter
 on:
   schedule:
     - cron: "0 0 * * *" # Roda todo dia à meia-noite
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch: # Permite que você rode manualmente agora
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: czl9707/gh-space-shooter@master
+      # Trocamos @master por @main aqui:
+      - uses: czl9707/gh-space-shooter@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
