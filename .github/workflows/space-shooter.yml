@@ -3,13 +3,12 @@ name: Generate Space Shooter
 on:
   schedule:
     - cron: "0 0 * * *" # Roda todo dia à meia-noite
-  workflow_dispatch: # Permite que você rode manualmente agora
+  workflow_dispatch: # Isso permite que você aperte o botão para criar o GIF agora
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Trocamos @master por @main aqui:
       - uses: czl9707/gh-space-shooter@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
