@@ -9,4 +9,4 @@
 
 ---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=xxMarina&show_icons=true&theme=transparent)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=xxMarina&show_icons=true&theme=transparent&v=1)
