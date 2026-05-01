@@ -9,4 +9,4 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![xxMarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxMarina)](https://github.com/xxMarina/github-readme-stats)
