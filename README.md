@@ -7,6 +7,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,js,ts,react,nextjs,nodejs,java,supabase,postgresql,vercel,docker,git,linux)](https://skillicons.dev)
 
----
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
