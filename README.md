@@ -9,4 +9,5 @@
 
 ---
 
-[![xxMarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxMarina)](https://github.com/xxMarina/github-readme-stats)
+![xxMarina GitHub stats](https://github-readme-stats.vercel.app/api?username=xxMarina&show_icons=true&theme=radical))
+
