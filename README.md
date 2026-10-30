@@ -2,7 +2,7 @@
 
 ### 🛠 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,kafka,redis,docker,aws,git,linux,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,spring,postgres,redis,mongodb,elasticsearch,kafka,docker,kubernetes,grafana,prometheus,githubactions,linux)](https://skillicons.dev)
 
 ---
 
